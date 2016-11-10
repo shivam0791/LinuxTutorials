@@ -1,0 +1,229 @@
+2647485692  request no.
+
+server  192.168.134.13
+user    admin
+pass    admin@skilr0ck
+
+HP Vmware Build No.
+2494585-600.9.3.30.2
+
+Key Blocker url:-
+http://www.askvg.com/tip-how-to-disable-all-win-keyboard-shortcuts-hotkeys-in-windows/
+
+monitoring Tools:-
+https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+
+logstash logserver:-
+http://www.tecmint.com/install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-rhel-7/
+
+Rsyslog+Loganalyzer installation:-
+http://tecadmin.net/setup-rsyslog-with-mysql-and-loganalyzer/
+
+database backup script:-
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/f09c12b1-ed56-48ce-95e1-7c53d7634dba/how-to-create-a-database-backup-job-that-will-keep-just-two-days-backup-file?forum=sqldatabaseengine
+
+SVN URL:-
+http://192.168.126.100:8080/scm/
+uid :- scmadmin
+pass:- scmadmin
+
+jboss timezone in run.conf:-
+JAVA_OPTS="-Duser.timezone=America/New_York"
+
+nagios grapg installation:-
+http://www.linuxfunda.com/2013/04/02/steps-to-configure-nagiosgraph-with-nagios-core/
+
+puppet server installation:-
+https://www.youtube.com/watch?v=FsURElxHGpg
+https://www.youtube.com/watch?v=76qeLNMHgF4
+
+puppet enterprise download:-
+https://puppet.com/download-puppet-enterprise/thank-you
+
+install jboss 6/7 as an service:-
+http://www.davidghedini.com/pg/entry/how_to_install_jboss_6
+http://www.davidghedini.com/pg/entry/install_jboss_7_on_centos
+
+install vlc media player:
+#install epel release
+# rpm -Uvh http://li.nux.ro/download/nux/dextop/el6/x86_64/nux-dextop-release-0-2.el6.nux.noarch.rpm
+
+Bugzilla installation on centos 7:-
+https://www.howtoforge.com/tutorial/install-bugzilla-50-on-centos-7/
+
+Nginx configuration:-
+https://www.nginx.com/resources/wiki/start/topics/examples/full/#
+
+Vim Tips:-
+https://www.cs.oberlin.edu/~kuperman/help/vim/index.html
+
+Imagic installation on Redhat:-
+https://www.vultr.com/docs/install-imagemagick-on-centos-6
+
+WDS installation:-
+http://prajwaldesai.com/installing-and-configuring-windows-deployment-services/
+http://www.lwcomputing.com/tips/static/installwds2008.asp
+
+*find and replace in vi editor:-
+http://www.cyberciti.biz/faq/linux-unix-vim-find-replace-text-string-words/
+http://www.thegeekstuff.com/2009/04/vi-vim-editor-search-and-replace-examples/
+
+*samba server installtion:-
+https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
+
+install mysql-workbench:-
+http://www.dalescott.net/2014/12/16/install-mysql-workbench-on-centos-7/
+
+*ftp installation:-
+http://www.unixmen.com/install-vsftpd-server-on-centos-rhel-scientific-linux-6-4/
+http://serverfault.com/questions/577393/vsftpd-limit-connection-to-a-set-of-ip-addresses
+https://www.google.co.in/?gfe_rd=cr&ei=C6POVsOmEOrA8gfZ4YTIBg#q=how+to+allow+ftp+only+from+an+ip+address+on+centos+
+
+*install clamav:-
+https://www.centosblog.com/how-to-install-clamav-and-configure-daily-scanning-on-centos/
+
+vnc install on centos 7:-
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-remote-access-for-the-gnome-desktop-on-centos-7
+https://www.howtoforge.com/vnc-server-installation-on-centos-7
+
+mysql 5.1.71 downloaded from:-
+https://downloads.mariadb.com/archive/index/p/mysql/v/5.1.71
+
+vmware problem:-
+https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1003490
+
+Java installation:-
+http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/#
+
+DNS Server installation:-
+http://linuxpitstop.com/dns-server-setup-using-bind-9-on-centos-7-linux/
+http://www.unixmen.com/setting-dns-server-centos-7/
+http://www.tecmint.com/install-configure-cache-only-dns-server-in-rhel-centos-7/
+https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-centos-7
+
+Ldap 389 directory server configuration:-
+https://www.unixmen.com/install-and-configure-ldap-server-in-centos-7/
+
+SSL to TLS 1.2 Configuration:-
+SSLProtocol -all +TLSv1 +TLSv1.1 +TLSv1.2
+
+by the way you can increase the Cipher suite too using:
+SSLCipherSuite EECDH+AESGCM:EDH+AESGCM:AES256+EECDH:ECDHE-RSA-AES128-SHA:DHE-RSA-AES128-GCM-SHA256:AES256+EDH:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GC$
+
+to verify type the command:
+#openssl s_client -connect localhost:443
+
+ip   41.77.66.22 26  
+uid  root
+pass Admin@lm5esxi
+
+ip   41.77.66.22
+uid  lms
+pass Ghana@321
+uid  root
+pass dyadav
+
+ip 41.77.66.35
+uid root
+pass Adm1n@v@s
+
+base url:-  http://inangbayannigeronimo.blogspot.in/2014/06/installing-icinga2-and-icinga-web-on.html
+icinga2 url
+192.168.124.151/icinga-web
+uid  root
+pass password
+
+icinga2 reporting section url
+192.168.124.151:8080/jasperserver
+uid  jasperadmin
+pass jasperadmin
+
+installation url:- 
+pandora auto generated pass:- rpfojuxs
+uid:- admin
+pass:- skilrock
+pending:- Documentation 
+
+Packet tracer .bin Download:-
+http://www.mediafire.com/?r95gqy7n331ht8t
+
+skype details:-
+id: shivam.singh446
+pass: shivam@#$
+
+HP LaserJet Enterprise M606dn
+
+Rafi contact no. 09582560139
+
+res.bdare.com
+
+http://www8.hp.com/in/en/products/printers/product-detail.html?oid=5096259#!tab=specs
+
+
+o install it: 
+1. Verify that your system has mysql installed: $ mysql -V 
+2. Download the file "mysql_plugin". 
+3. Copy it to your agent plugins directory. F.ex. on my system in "/etc/pandora/plugins". 
+4. Make it executable: $ chmod +x /etc/pandora/plugins/mysql_plugin 
+
+To use it you need a mysql user, for that I create a user with only select privileges: 
+mysql> GRANT SELECT ON *.* to (user)@localhost identified by '(password)'; 
+NOTE: Maybe less privileges are needed, but NEVER user the mysql root account. 
+Then just call it from the config file of your agent with the following line: 
+"module_plugin mysql_plugin (user) (password)" 
+
+spectranet contect person:-
+sunil.chandra@spectranet.in
+
+paytm login:-
+uid 9818516231
+pass shivam1
+
+[4:20:09 PM] Dharmender  Yadav: 41.77.66.35
+[4:20:10 PM] Dharmender  Yadav: root
+[4:20:12 PM] Dharmender  Yadav: Adm1n@v@s
+
+http://www.flipkart.com/philips-shl3005bk-00-wired-headset/p/itmdpybfbggrfuzh?pid=ACCDPYBFTPE5PRGT&ref=L%3A4309154866023975349&srno=p_171&query=headphones+with+microphone&otracker=from-search
+
+http://www.flipkart.com/philips-shm7410u-97-wired-headset/p/itmdnymvzanaxfmq?pid=ACCCZ553FGVUMMH7&ref=L%3A5966447001647137091&srno=p_39&query=headphones+with+microphone&otracker=from-search
+
+svn commands:-
+http://www.thegeekstuff.com/2011/04/svn-command-examples/
+
+#JAVA_1.7 installation in Ubuntu:-
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java7-installer
+
+To automatically set up the Java 7 environment variables JAVA_HOME and PATH:
+sudo apt-get install oracle-java7-set-default
+
+To add publick key:-
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 1397BC53640DB551
+
+#JAVA_1.8 installation in ubuntu
+I recommend you to use Webup8 Oracle Java8 Installer
+
+sudo add-apt-repository ppa:webupd8team/java -y
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+To automatically set up the Java 8 environment variables
+
+sudo apt-get install oracle-java8-set-default
+Check it
+
+java -version
+
+Public ip check by command:-
+curl -s checkip.dyndns.org | sed -e 's/.*Current IP Address: //' -e 's/<.*$//' 
+wget http://ipinfo.io/ip -q0 -
+
+Top 10 Memory Eating Process:-
+ps -A --sort -rss -o comm,pmem | head -n 11
+ps auxf
+
+#Online file converter
+http://document.online-convert.com/convert-to-html
+
+
+
